@@ -1,0 +1,192 @@
+[
+    {
+        "product_id": 1,
+        "product_title": "Wireless Bluetooth Earbuds",
+        "product_image": "https://i.ibb.co/ck6V7Kw/51c-FAc8-QHLL.jpg",
+        "category": "Audio",
+        "price": 59.99,
+        "description": "High-quality wireless earbuds with noise-cancellation and long-lasting battery life.",
+        "specification": [
+            "Bluetooth 5.0",
+            "Up to 8 hours of playtime",
+            "Charging case with 24-hour battery",
+            "Water-resistant (IPX4)"
+        ],
+        "availability": true,
+        "rating": 3,
+        "brand": "TechSound",
+        "color": "Black",
+        "weight": "50g"
+    },
+    {
+        "product_id": 2,
+        "product_title": "Noise Cancelling Headphones",
+        "product_image": "https://i.ibb.co/ck6V7Kw/51c-FAc8-QHLL.jpg",
+        "category": "Audio",
+        "price": 120.00,
+        "description": "Experience immersive sound with active noise-cancelling technology and comfortable ear cushions.",
+        "specification": [
+            "Active noise cancellation",
+            "Bluetooth and wired options",
+            "Up to 20 hours battery life",
+            "Foldable design"
+        ],
+        "availability": true,
+        "rating": 4.8,
+        "brand": "SoundMax",
+        "color": "Blue",
+        "weight": "250g"
+    },
+    {
+        "product_id": 3,
+        "product_title": "Portable Waterproof Speaker",
+        "product_image": "https://i.ibb.co/ck6V7Kw/51c-FAc8-QHLL.jpg",
+        "category": "Audio",
+        "price": 79.99,
+        "description": "Compact waterproof Bluetooth speaker with deep bass and high sound quality.",
+        "specification": [
+            "Waterproof (IPX7)",
+            "Bluetooth 5.0",
+            "Up to 10 hours playtime",
+            "Built-in microphone for calls"
+        ],
+        "availability": true,
+        "rating": 4.6,
+        "brand": "BassBoom",
+        "color": "Red",
+        "weight": "180g"
+    },
+    {
+        "product_id": 4,
+        "product_title": "High Fidelity Headphones",
+        "product_image": "https://i.ibb.co/ck6V7Kw/51c-FAc8-QHLL.jpg",
+        "category": "Audio",
+        "price": 99.99,
+        "description": "Over-ear studio headphones for professional sound quality and clarity.",
+        "specification": [
+            "Closed-back design",
+            "40mm drivers",
+            "Noise isolation",
+            "Adjustable headband"
+        ],
+        "availability": false,
+        "rating": 4,
+        "brand": "ProSound",
+        "color": "Gray",
+        "weight": "300g"
+    },
+    {
+        "product_id": 5,
+        "product_title": "True Wireless Sports Earbuds",
+        "product_image": "https://i.ibb.co/ck6V7Kw/51c-FAc8-QHLL.jpg",
+        "category": "Audio",
+        "price": 69.99,
+        "description": "Durable wireless earbuds designed for active use, featuring sweat resistance and a secure fit.",
+        "specification": [
+            "Bluetooth 5.1",
+            "Sweat and water-resistant",
+            "Up to 6 hours playtime",
+            "Compact charging case"
+        ],
+        "availability": true,
+        "rating": 4.4,
+        "brand": "ActiveBeat",
+        "color": "Green",
+        "weight": "40g"
+    },
+    {
+        "product_id": 6,
+        "product_title": "Smart Noise Earbuds",
+        "product_image": "https://i.ibb.co/ck6V7Kw/51c-FAc8-QHLL.jpg",
+        "category": "Audio",
+        "price": 89.99,
+        "description": "Premium noise-cancelling earbuds with customizable sound profiles.",
+        "specification": [
+            "Active noise cancellation",
+            "Personalized sound settings",
+            "Bluetooth 5.2",
+            "Up to 7 hours playtime"
+        ],
+        "availability": false,
+        "rating": 4.5,
+        "brand": "SilentWave",
+        "color": "Silver",
+        "weight": "55g"
+    },
+    {
+        "product_id": 7,
+        "product_title": "Smart Fitness Watch",
+        "product_image": "https://i.ibb.co/ck6V7Kw/51c-FAc8-QHLL.jpg",
+        "category": "Wearables",
+        "price": 129.99,
+        "description": "Track your fitness goals with this smart watch featuring heart rate monitor, GPS, and sleep tracking.",
+        "specification": [
+            "Heart rate monitoring",
+            "GPS tracking",
+            "Sleep analysis",
+            "Waterproof (up to 50m)"
+        ],
+        "availability": true,
+        "rating": 3.7,
+        "brand": "FitLife",
+        "color": "Gray",
+        "weight": "30g"
+    },
+    {
+        "product_id": 8,
+        "product_title": "Advanced Sports Smartwatch",
+        "product_image": "https://i.ibb.co/ck6V7Kw/51c-FAc8-QHLL.jpg",
+        "category": "Wearables",
+        "price": 199.99,
+        "description": "High-end smartwatch with multi-sport tracking, GPS, and a durable design for athletes.",
+        "specification": [
+            "Multi-sport tracking",
+            "Built-in GPS",
+            "Waterproof (up to 100m)",
+            "24-hour heart rate monitoring"
+        ],
+        "availability": true,
+        "rating": 4.9,
+        "brand": "AthleteTech",
+        "color": "Black",
+        "weight": "35g"
+    },
+    {
+        "product_id": 9,
+        "product_title": "Smart Home Assistant Speaker",
+        "product_image": "https://i.ibb.co/ck6V7Kw/51c-FAc8-QHLL.jpg",
+        "category": "Smart Home",
+        "price": 99.99,
+        "description": "Voice-controlled smart speaker with built-in assistant to control your smart home devices.",
+        "specification": [
+            "Voice assistant support",
+            "WiFi and Bluetooth connectivity",
+            "360-degree sound",
+            "Compatible with multiple smart home devices"
+        ],
+        "availability": true,
+        "rating": 4.6,
+        "brand": "HomeSmart",
+        "color": "Gray",
+        "weight": "300g"
+    },
+    {
+        "product_id": 10,
+        "product_title": "Smart Light Bulb Kit",
+        "product_image": "https://i.ibb.co/ck6V7Kw/51c-FAc8-QHLL.jpg",
+        "category": "Smart Home",
+        "price": 59.99,
+        "description": "Set of color-changing smart light bulbs controlled via smartphone app or voice assistant.",
+        "specification": [
+            "Adjustable brightness",
+            "Color-changing",
+            "Smartphone and voice control",
+            "Energy efficient"
+        ],
+        "availability": true,
+        "rating": 4.3,
+        "brand": "BrightHome",
+        "color": "White",
+        "weight": "100g"
+    }
+]
